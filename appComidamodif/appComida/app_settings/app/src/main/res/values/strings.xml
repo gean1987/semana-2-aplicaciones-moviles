@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">app_settings</string>
+    <string name="labelCliente">Ingresar cliente</string>
+    <string name="labelPelicula">Seleccione una pelicula</string>
+    <string name="labelAsientos">Cantidad asientos niños</string>
+    <string-array name="peliculas">
+        <item>Depredador</item>
+        <item>123</item>
+        <item>456</item>
+    </string-array>
+
+
+
+</resources>
